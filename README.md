@@ -9,17 +9,19 @@ This project is a modern retelling of the classical Chinese novel *Journey to th
 
 We organize the content by language folders. Each language folder may contain multiple subdirectories, such as chapters, notes, etc.
 
-- `en/`  
-  - `chapters/`: Contains chapters in modern English.  
+- `simplified-chinese/`  
+  - `chapters/`: Contains chapters in modern Simplified Chinese (简体中文).  
+- `traditional-chinese/`  
+  - `chapters/`: Contains chapters in modern Traditional Chinese (繁体中文).  
+- `english/`  
+  - `chapters/`: Contains chapters in English.  
   - `notes/`: Annotations, references, or rewrite methodology in English.  
-- `zh/`  
-  - `chapters/`: Contains chapters in modern Chinese (简体中文).  
   - `notes/`: Annotations, references, or rewrite methodology in Chinese.  
 - `LICENSE`: The full text of the CC BY-NC 4.0 license.  
 - `README.md`: This English documentation.  
 - `README.zh.md`: The Chinese documentation.
 
-In the future, if we add more languages (e.g., `fr/`, `ja/`), we will follow the same folder structure.
+In the future, if we add more languages (e.g., `french/`, `japanese/`), we will follow the same folder structure.
 
 ## Usage
 
